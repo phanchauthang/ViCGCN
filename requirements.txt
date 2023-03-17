@@ -1,0 +1,6 @@
+dgl-cu102==0.6.1
+pytorch==1.13.1
+transformers==4.27.1
+numpy==1.22.4
+scipy==1.10.1
+scikit-learn==1.2.2
